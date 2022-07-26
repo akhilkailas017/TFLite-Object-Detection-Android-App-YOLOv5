@@ -29,3 +29,4 @@ C. References
 - yolov5 : https://github.com/ultralytics/yolov5
 - labelimg annotation tutorial : https://youtu.be/Tlvy-eM8YO4
 - yolov5 training tutorial : https://youtu.be/80Q3HIBy7Qg
+- yolov5 app making tutorial : https://youtu.be/ROn1_O2zEtk

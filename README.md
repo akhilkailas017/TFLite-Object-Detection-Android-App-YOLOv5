@@ -30,3 +30,4 @@ C. References
 - labelimg annotation tutorial : https://youtu.be/Tlvy-eM8YO4
 - yolov5 training tutorial : https://youtu.be/80Q3HIBy7Qg
 - yolov5 app making tutorial : https://youtu.be/ROn1_O2zEtk
+- android file download : https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5.git

@@ -1,5 +1,8 @@
 # TFLite-Object-Detection-Android-App-YOLOv5
 
+**First Reffer https://github.com/akhilkailas2001/Object-Detection-using-Yolov5.git<br>**
+**It is the continuation of Object Detection using Yolov5**
+
 A. Main Idea
 
 - Train yolov5 model
